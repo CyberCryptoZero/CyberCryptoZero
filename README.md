@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @CyberCryptoZero
-- 👀 I’m interested in everything technology related
-- 🧑‍💻 I know java, python, HTML, css, javascript.
-- 🌱 I’m currently learning how to create a business
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me? Wait. You can't. 
+- 👀 I’m interested in everything!
+- 🧑‍💻 I know Java, Python, HTML, CSS, Javascript, MongoDB.
+- 🌱 I’m currently learning how to create a SAAS business.
+- 💞️ I'm currently learning how to use React + Node
+- 📫 Reach me at cybercryptozero@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have an IQ of 150
 
