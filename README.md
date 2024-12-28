@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyberCryptoZero
-- 👀 I’m interested in everything!
-- 🧑‍💻 Skills in my toolset:
+- 👀 I’m interested in everything tech/fitness related!
+- 🧑‍💻 Skills in my toolset:<br>
   -HTML<br>
   -CSS<br>
   -React<br>
@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning how to create a SAAS business!
 - 📫 Reach me at cybercryptozero@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have an IQ of 150
+- ⚡ Fun fact: I have an IQ of 146
 
 <!---
 CyberCryptoZero/CyberCryptoZero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
