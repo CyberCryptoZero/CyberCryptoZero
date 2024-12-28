@@ -1,17 +1,17 @@
 - 👋 Hi, I’m @CyberCryptoZero
 - 👀 I’m interested in everything!
 - 🧑‍💻 Skills in my toolset:
-  -HTML
-  -CSS
-  -React
-  -Javascript
-  -Typescript
-  -Java
-  -MongoDB
-  -Python
-  -Next
-  -Git
-  -Tailwind
+  -HTML<br>
+  -CSS<br>
+  -React<br>
+  -Javascript<br>
+  -Typescript<br>
+  -Java<br>
+  -MongoDB<br>
+  -Python<br>
+  -Next<br>
+  -Git<br>
+  -Tailwind<br>
 - 🌱 I’m currently learning how to create a SAAS business!
 - 📫 Reach me at cybercryptozero@gmail.com
 - 😄 Pronouns: he/him
