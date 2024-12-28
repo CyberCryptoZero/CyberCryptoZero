@@ -1,8 +1,18 @@
 - 👋 Hi, I’m @CyberCryptoZero
 - 👀 I’m interested in everything!
-- 🧑‍💻 I know Java, Python, HTML, CSS, Javascript, MongoDB.
-- 🌱 I’m currently learning how to create a SAAS business.
-- 💞️ I'm currently learning how to use React + Node
+- 🧑‍💻 Skills in my toolset:
+  -HTML
+  -CSS
+  -React
+  -Javascript
+  -Typescript
+  -Java
+  -MongoDB
+  -Python
+  -Next
+  -Git
+  -Tailwind
+- 🌱 I’m currently learning how to create a SAAS business!
 - 📫 Reach me at cybercryptozero@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have an IQ of 150
