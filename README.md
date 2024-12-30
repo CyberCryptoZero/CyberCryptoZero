@@ -13,7 +13,7 @@
   -Next<br>
   -Git<br>
   -Tailwind<br>
-- 🌱 I’m currently learning how to create a SAAS business!
+- 🌱 I’m currently creating my SAAS business!
 - 📫 Reach me at cybercryptozero@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have an IQ of 146
