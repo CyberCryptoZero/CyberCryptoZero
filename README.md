@@ -17,6 +17,7 @@
 - 📫 Reach me at cybercryptozero@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have an IQ of 146
+- "Winners Never Quit & Quitters Never Win" – Vince Lombardi
 
 <!---
 CyberCryptoZero/CyberCryptoZero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
