@@ -16,7 +16,7 @@
 - 🌱 I’m currently creating my SAAS business!
 - 📫 Reach me at cybercryptozero@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have an IQ of 146
+- ⚡ Fun fact: I have an IQ of 153
 - "Winners Never Quit & Quitters Never Win" – Vince Lombardi
 
 <!---
