@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CyberCryptoZero
-- 👀 I’m interested in everything tech!
+- 👀 I’m interested in everything tech + business!
 - 🧑‍💻 Skills in my toolset:<br>
   -HTML<br>
   -CSS<br>
