@@ -13,7 +13,7 @@
   -Next<br>
   -Git<br>
   -Tailwind<br>
-- 🌱 I’m currently creating my SAAS business! Releasing it sometime Feburary! 
+- 🌱 Released my Saas!
 - Learning about Auth!
 - I'm also learning about cybersecurity and how to hack!
 - 📫 Reach me at cybercryptozero@gmail.com
