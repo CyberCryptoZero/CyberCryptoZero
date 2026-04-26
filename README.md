@@ -13,12 +13,9 @@
   -Next<br>
   -Git<br>
   -Tailwind<br>
-- 🌱 Released my Saas!
-- Learning about Auth!
-- I'm also learning about cybersecurity and how to hack!
 - 📫 Reach me at cybercryptozero@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have an IQ of 153
+  
 - "Winners Never Quit & Quitters Never Win" – Vince Lombardi
 
 <!---
