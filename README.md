@@ -1,17 +1,17 @@
 # Hi, I'm Andrew👋
-CS student at the University of Waterloo.
+I'm a CS student at the University of Waterloo.
 
 Interested in everything tech + business!
 
 ---
 
 #### Languages
-![Java](https://shieldcn.dev/badge/Java-007396.svg?logo=java)
+![Java](https://shieldcn.dev/badge/Java-ED8B00.svg?logo=ri%3AFaJava)
 ![Python](https://shieldcn.dev/badge/Python-3776AB.svg?logo=python)
 ![TypeScript](https://shieldcn.dev/badge/TypeScript-3178C6.svg?logo=typescript)
 ![JavaScript](https://shieldcn.dev/badge/JavaScript-F7DF1E.svg?logo=javascript)
 ![HTML5](https://shieldcn.dev/badge/HTML5-E34F26.svg?logo=html5)
-![CSS3](https://shieldcn.dev/badge/CSS3-1572B6.svg?logo=css3)
+![CSS3](https://shieldcn.dev/badge/CSS3-1572B6.svg?logo=css)
 ![Racket](https://shieldcn.dev/badge/Racket-3C5CAA.svg?logo=racket)
 
 #### Frameworks & Libraries
@@ -23,4 +23,5 @@ Interested in everything tech + business!
 
 ---
 
+Feel free to connect!
 📫 [LinkedIn](linkedin.com/in/andrewsioson)
